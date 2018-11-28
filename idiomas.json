@@ -1,0 +1,1177 @@
+
+{
+	"Categorías": [{
+		"en": "Categories"},{
+		"pt":"Categorias"
+	}],
+	"Buscar cursos": [{
+		"en": "Search courses" },{
+		"pt": "Cursos de pesquisa"
+	}],
+	"Ingresar": [{
+		"en": "Login" },{
+		"pt": "Entrar"
+
+	}],
+
+	"Ver más cursos de": [{
+		"en": "See more courses" },{
+		"pt": "Ver mais cursos de"
+
+	}],
+	"Todo": [{
+		"en": "All" },{
+		"pt": "Tudo"
+
+	}],
+
+	
+
+	"Registro": [{
+		"en": "Register" },{
+		"pt": "Registo"
+
+	}],
+
+	
+	"Cursos de": [{
+		"en": "" },{
+		"pt": "Cursos de"
+
+	}],
+
+	"Otros": [{
+		"en": "Others" },{
+		"pt": "Outras"
+
+	}],
+
+	"Ingreso de usuarios": [{
+		"en": "User Login" },{
+		"pt": "Login de usuário"
+	}],
+
+	"Ingreso con Facebook": [{
+		"en": "Login with Facebook" },{
+		"pt": "Entrar com o Facebook"
+	}],
+
+	"Ingreso con Google": [{
+		"en": "Login with Google" },{
+		"pt": "Junte-se ao Google"
+	}],
+
+	"Ingresar": [{
+		"en": "Login"},{
+		"pt": "Entrar"
+	}],
+
+	"¿No tienes una cuenta registrada?": [{
+		"en": "Do not have a registered account?" },{
+		"pt": "Não tem uma conta registrada?"
+	}],
+
+	"Registrarse": [{
+		"en": "Check in" },{
+		"pt": "Registrar-se"
+	}],
+
+	"Registro con Facebook": [{
+		"en": "Register with Facebook" },{
+		"pt": "Registro com Facebook"
+	}],
+
+	"Registro con Google": [{
+		"en": "Register with Google" },{
+	}],
+
+	"Nombre completo": [{
+		"en": "Full name" },{
+		"pt": "Nome completo"
+	}],
+
+	"Correo Electrónico": [{
+		"en": "Email" },{
+		"pt": "Correio Eletrônico"
+	}],
+
+	"Contraseña": [{
+		"en": "Password" },{
+		"pt": "Senha"
+
+	}],
+
+	"Enviar": [{
+		"en": "Submit" },{
+		"pt": "Enviar"
+	}],
+
+	"Al registrarse usted acepta nuestras condiciones y políticas de privacidad": [{
+		"en": "By registering you accept our conditions and privacy policies" },{
+		"pt": "Ao registrar-se você aceita nossas condições e políticas de privacidade"
+	}],
+
+	"Somos una marca afiliada a UDEMY principal destino del mundo para cursos en línea": [{
+		"en": "We are a brand affiliated with UDEMY, the world's leading destination for online courses",
+		"pt": "Somos uma marca afiliada à UDEMY, o principal destino do mundo para cursos on-line"
+	}],
+
+
+	"¿Ya tienes una cuenta registrada?": [{
+		"en": "Do you already have a registered account?" },{
+		"pt": "¿Já tem uma conta registrada?"
+	}],
+
+	"Leer más": [{
+		"en": "Read more" },{
+		"pt": "Ler mais"
+	}],
+
+	"Ver cursos": [{
+		"en": "See courses" },{
+		"pt": "Ver cursos"
+
+	}],
+
+	"Ver Curso": [{
+		"en": "See Course" },{
+		"pt": "Ver Curso"
+	}],
+
+	"Regresar": [{
+		"en": "To return" },{
+		"pt": "Regressar"
+	}],
+
+	"Ofertas Especiales": [{
+		"en": "Special offers" },{
+		"pt": "Ofertas Especiais"
+	}],
+
+	"Todos los cursos a": [{
+		"en": "All courses at" },{
+		"pt": "Todos os cursos a"
+	}],
+
+	"La oferta termina en": [{
+		"en": "The offer ends in" },{
+		"pt": "A oferta termina em"
+	}],
+
+	"días": [{
+		"en": "days" },{
+		"pt": "dias"
+	}],
+
+	"día": [{
+		"en": "day" },{
+		"pt": "dia"
+	}],
+
+	"Cursos con": [{
+		"en": "Courses with" },{
+		"pt": "Cursos com"
+	}],
+
+	"de descuento": [{
+		"en": "OFF" },{
+		"pt": "de desconto"
+	}],
+
+	"Los mejores cursos de": [{
+		"en": "The best courses of" },{
+		"pt": "Os melhores cursos de"
+	}],
+
+	"La oferta termina hoy": [{
+		"en": "The offer ends today" },{
+		"pt": "A oferta termina hoje"
+	}],
+
+	"Ver todo": [{
+		"en": "See all" },{
+		"pt": "Ver tudo"
+	}],
+
+	"Ir a cursos de": [{
+		"en": "Go to courses" },{
+		"pt": "Ir a cursos de"
+	}],
+
+	"Somos una marca afiliada a UDEMY principal destino del mundo para cursos en línea": [{
+		"en": "We are a brand affiliated with UDEMY, the world's leading destination for online courses" },{
+		"pt": "Somos uma marca filiada a UDEMY principal destino do mundo para cursos em linha"
+	}],
+
+	"Certifica tus habilidades con más de 55.000 cursos en línea": [{
+		"en": "Certify your skills with more than 55,000 online courses " },{
+		"pt": "Certifica suas habilidades com mais de 55.000 cursos em linha "
+	}],
+
+	"Acceso de por vida en dispositivos móviles y TV, estudia donde quieras y cuando quieras": [{
+		"en": "Lifetime access on mobile devices and TV, study where you want and when you want" },{
+		"pt": "Acesso de por vida em dispositivos móveis e TV, estuda onde queira e quando queira"
+	}],
+
+	"30 días de garantía para probar el curso o solicita devolución de dinero": [{
+		"en": "30 days guarantee to try the course or request money back" },{
+		"pt": "30 dias de garantia para provar o curso ou solicita devolução de dinheiro"
+	}],
+
+	"Síguenos": [{
+		"en": "Follow us" },{
+		"pt": "Segua-nos"
+	}],
+
+	"¿Hoy qué quieres aprender?": [{
+		"en": "What do you want to learn today?" },{
+		"pt": "¿Hoje que quer aprender?"
+	}],
+
+	"Resuelve tu inquietud": [{
+		"en": "Solve your concern" },{
+		"pt": "Resolve sua inquietude"
+	}],
+
+	"Escriba su nombre": [{
+	"en": "Write your name" },{
+	"pt": "Escreva seu nome"
+	}],
+
+	"Escriba su correo electrónico": [{
+	"en": "Write your email" },{
+	"pt": "Escreva seu correio eletrônico"
+	}],
+
+	"Escriba su mensaje": [{
+	"en": "Write your message" },{
+	"pt": "Escreva sua mensagem"
+	}],
+
+	"Ordenar Cursos": [{
+	"en": "Sort Courses" },{
+	"pt": "Ordenar Cursos"
+	}],
+
+	"Mejor calificado": [{
+	"en": "Highest Rated" },{
+	"pt":  "Melhor qualificado"
+	}],
+
+	"Más nuevo": [{
+	"en": "Newest"},{
+	"pt": "Mais novo"
+	}],
+
+	"Más revisado": [{
+	"en": "Most Reviewed" },{
+	"pt": "Mais revisado"
+	}],
+
+	"Precio bajo a alto": [{
+	"en": "Price low to high" },{
+	"pt": "Preço baixo a alto"
+	}],
+
+	"Precio alto a bajo": [{
+	"en": "Price high-to low" },{
+	"pt": "Preço baixo a alto"
+	}],
+
+	"Relevancia": [{
+	"en": "Relevance" },{
+	"pt": "Relevância"
+	}],
+
+	"Gratis": [{
+	"en": "Free" },{
+	"pt": "Grátis"
+	}],
+
+	"Ver Ofertas": [{
+	"en": "See Offers" },{
+	"pt": "Ver Ofertas"
+	}],
+
+	"Por favor verifique su dirección de correo electrónico": [{
+	"en": "Please verify your email address" },{
+	"pt": "Faz favor verifique sua direção de correio eletrônico"
+	}],
+
+	"VERIFIQUE SU DIRECCIÓN DE CORREO ELECTRÓNICO": [{
+	"en": "CHECK YOUR EMAIL ADDRESS" },{
+	"pt": "VERIFIQUE SUA DIREÇÃO DE CORREIO ELETRÔNICO"
+	}],
+
+	"Para comenzar a usar su cuenta debe confirmar su dirección de correo electrónico": [{
+	"en": "To start using your account you must confirm your email address" },{
+	"pt": "Para começar a usar sua conta deve confirmar sua direção de correio eletrônico"
+	}],
+
+	"Si no se inscribió en esta cuenta, puede ignorar este correo electrónico y la cuenta se eliminará.": [{
+	"en": "If you did not sign up for this account, you can ignore this email and the account will be deleted." },{
+	"pt": "Se não se inscreveu nesta conta, pode ignorar este correio eletrônico e a conta se eliminará."
+	}],
+
+	"Ha ocurrido un problema enviando verificación de correo electrónico a": [{
+	"en": "A problem has occurred sending email verification to" },{
+	"pt": "Tem ocorrido um problema enviando verificação de correio eletrônico a"
+	}],
+
+	"Por favor revise la bandeja de entrada o la carpeta de SPAM de su correo electrónico": [{
+	"en": "Please check the inbox or the SPAM folder of your email" },{
+	"pt": "Faz favor revise a bandeja primeiramente ou a pasta de SPAM de seu correio eletrônico"
+	}],
+
+	"para verificar la cuenta": [{
+	"en": "to verify the account" },{
+	"pt": "para verificar a conta"
+	}],
+
+	"Página no encontrada": [{
+	"en": "Page not found" },{
+	"pt": "Página não encontrada"
+	}],
+
+	"Error al registrar el usuario, no se permiten caracteres especiales": [{
+	"en": "Error registering the user, special characters are not allowed" },{
+	"pt": "Erro ao registrar o usuário, não se permitem carateres especiais"
+	}],
+
+	"No se ha podido verificar el correo electrónico,  vuelva a registrarse": [{
+	"en": "The email could not be verified, please re-register" },{
+	"pt": "Não se pôde verificar o correio eletrônico, volte a se registrar"
+	}],
+
+	"Hemos verificado su correo electrónico, ya puede ingresar al sistema": [{
+	"en": "We have verified your email, you can enter the system" },{
+	"pt": "Temos verificado seu correio eletrônico, já pode ingressar ao sistema"
+	}],
+	
+
+	"Gracias": [{
+	"en": "Thanks" },{
+	"pt": "Gracias"
+	}],
+	"NO HA VERIFICADO SU CORREO ELECTRÓNICO": [{
+	"en": "YOU HAVE NOT VERIFIED YOUR EMAIL" },{
+	"pt": "NÃO TEM VERIFICADO SEU CORREIO ELETRÔNICO"
+	}],
+	"Por favor revise la bandeja de entrada o la carpeta de SPAM de su correo para verififcar la dirección de correo electrónico": [{
+	"en": "Please check the inbox or SPAM folder of your email to verify the email address" },{
+	"pt": "Faz favor revise a bandeja primeiramente ou a pasta de SPAM de seu correio para verififcar a direção de correio eletrônico"
+	}],
+	"ERROR AL INGRESAR": [{
+	"en": "ERROR ON ENTRY" },{
+	"pt": "ERRO Ao INGRESSAR"
+	}],
+	"Por favor revise que el email exista o la contraseña coincida con la registrada": [{
+	"en": "Please check that the email exists or the password matches the registered one" },{
+	"pt": "Faz favor revise que o e-mail exista ou a senha coincida com a registrada"
+	}],
+	"Error al ingresar al sistema, no se permiten caracteres especiales": [{
+	"en": "Error entering the system, special characters are not allowed" },{
+	"pt": "Erro ao ingressar ao sistema, não se permitem carateres especiais"
+	}],
+	"Ver perfil": [{
+	"en": "Profile" },{
+	"pt": "Ver perfil"
+	}],
+	"Salir": [{
+	"en": "Logout" },{
+	"pt": "Sair"
+	}],
+	"El correo electrónico ya existe en la base de datos, fue registrado a través de": [{
+	"en": "The email already exists in the database, it was registered through" },{
+	"pt": "O correio eletrônico já existe no banco de dados, foi registrado através de"
+	}],
+	"por favor ingrese otro diferente": [{
+	"en": "please enter a different one" },{
+	"pt": "faz favor ingresse outro diferente"
+	}],
+	"esta página": [{
+	"en": "this page" },{
+	"pt": "esta página"
+	}],
+	"No se permiten números ni caracteres especiales": [{
+	"en": "No numbers or special characters are allowed" },{
+	"pt": "Não se permitem números nem carateres especiais"
+	}],
+	"Atención": [{
+	"en": "Warning" },{
+	"pt": "Atenção"
+	}],
+	"Este campo es obligatorio": [{
+	"en": "This field is required" },{
+	"pt": "Este campo é obrigatório"
+	}],
+	"Escriba correctamente el correo electrónico": [{
+	"en": "Write the email correctly" },{
+	"pt": "Escreva corretamente o correio eletrônico"
+	}],
+	"El correo electrónico ya existe en la base de datos, por favor ingrese otro diferente": [{
+	"en": "The email already exists in the database, please enter a different one" },{
+	"pt": "O correio eletrônico já existe no banco de dados, faz favor ingresse outro diferente"
+	}],
+	"No se permiten caracteres especiales": [{
+	"en": "Special characters are not allowed" },{
+	"pt": "Não se permitem carateres especiais"
+	}],
+	"Debe aceptar nuestras condiciones de uso y políticas de privacidad": [{
+	"en": "You must accept our terms of use and privacy policies" },{
+	"pt": "Deve aceitar nossas condições de uso e políticas de privacidade"
+	}],
+	"Solicitud de nueva contraseña": [{
+	"en": "Request for a new password" },{
+	"pt": "Solicitação de nova senha"
+	}],
+	"Escribe el correo electrónico con el que estás registrado y allí te enviaremos una nueva contraseña:": [{
+	"en": "Write the email with which you are registered and there we will send you a new password:" },{
+	"pt": "Escreve o correio eletrônico com o que está registrado e ali enviaremos você uma nova senha:"
+	}],
+	"¿Olvidaste tu contraseña?": [{
+	"en": "Did you forget your password?" },{
+	"pt": "¿Esqueceu sua senha?"
+	}],
+	"Su nueva contraseña": [{
+	"en": "Your new password" },{
+	"pt": "Sua nova senha"
+	}],
+	"Ingrese nuevamente al sitio": [{
+	"en": "Enter the site again" },{
+	"pt": "Ingresse novamente ao lugar"
+	}],
+	"Ha ocurrido un problema enviando cambio de contraseña a": [{
+	"en": "A problem has occurred sending password change to" },{
+	"pt": "Tem ocorrido um problema enviando mudança de senha a"
+	}],
+	"Por favor revise la bandeja de entrada o la carpeta de SPAM de su correo electrónico": [{
+	"en": "Please check the inbox or the SPAM folder of your email" },{
+	"pt": "Faz favor revise a bandeja primeiramente ou a pasta de SPAM de seu correio eletrônico"
+	}],
+	"para su cambio de contraseña": [{
+	"en": "for your password change" },{
+	"pt": "para sua mudança de senha"
+	}],
+	"El correo electrónico no existe en el sistema": [{
+	"en": "Email does not exist in the system" },{
+	"pt": "O correio eletrônico não existe no sistema"
+	}],
+	"Error al enviar el correo electrónico, está mal escrito": [{
+	"en": "Error sending the email, is poorly written" },{
+	"pt": "Erro ao enviar o correio eletrônico, está mau escrito"
+	}],
+	"Desarrollo": [{
+		"en": "Development" },{
+		"pt": "Desenvolvimento"
+	}],
+	"Negocios": [{
+		"en": "Bussines" },{
+		"pt": "Negócios"
+	}],
+	"Software": [{
+		"en": "Software" },{
+		"pt": "Software"
+	}],
+	"Oficina": [{
+		"en": "Office" },{
+		"pt": "Escritório"
+	}],
+	"D. Personal": [{
+		"en": "Personal Dev." },{
+		"pt": "D. Pessoal"
+	}],
+	"Diseño": [{
+		"en": "Design" },{
+		"pt": "Desenho"
+	}],
+	"Marketing": [{
+		"en": "Marketing" },{
+		"pt": "Marketing"
+	}],
+	"Música": [{
+		"en": "Music" },{
+		"pt": "Música"
+	}],
+	"Salud y Fitness": [{
+		"en": "Health and Fitness" },{
+		"pt": "Saúde e Fitness"
+	}],
+	"Fotografía": [{
+		"en": "Photography" },{
+		"pt": "Fotografia"
+	}],
+	"Estilo de vida": [{
+		"en": "Lifestyle" },{
+		"pt": "Estilo de vida"
+	}],
+	"Idiomas": [{
+		"en": "Language" },{
+		"pt": "Idiomas"
+	}],
+	"Formación de Profesorado": [{
+		"en": "Teacher Training" },{
+		"pt": "Formação de Profesorado"
+	}],
+	"Estudios Académicos": [{
+		"en": "Academics" },{
+		"pt": "Estudos Acadêmicos"
+	}],
+	"Preparación para Exámenes": [{
+		"en": "Test Prep" },{
+		"pt": "Preparação para Exames"
+	}],
+	"Preparación para Exámenes": [{
+		"en": "Test Prep" },{
+		"pt": "Preparação para Exames"
+	}],
+	"Cursos gratis de Desarrollo": [{
+		"en": "Free Development Courses" },{
+		"pt": "Cursos grátis de Desenvolvimento"
+	}],
+	"Desarrollo web": [{
+		"en": "Web development" },{
+		"pt": "Desenvolvo site"
+	}],
+	"Aplicaciones móviles": [{
+		"en": "Mobile apps" },{
+		"pt": "Aplicativos móveis"
+	}],
+	"Lenguajes de programación": [{
+		"en": "Programming languages" },{
+		"pt": "Linguagens de programação"
+	}],
+	"Desarrollo de videoluegos": [{
+		"en": "Development of video games" },{
+		"pt": "Desenvolvimento de videoluegos"
+	}],
+	"Bases de datos": [{
+		"en": "Databases" },{
+		"pt": "Bancos de dados"
+	}],
+	"Testeo de software": [{
+		"en": "Software testing" },{
+		"pt": "Testeo de software"
+	}],
+	"Ingeniería de software": [{
+		"en": "Software Engineering" },{
+		"pt": "Engenharia de software"
+	}],
+	"Herramientas de desarrollo": [{
+		"en": "Development tools" },{
+		"pt": "Ferramentas de desenvolvimento"
+	}],
+	"Comercio electrónico": [{
+		"en": "Electronic commerce" },{
+		"pt": "Comércio eletrônico"
+	}],
+	"Cursos gratis de Negocios": [{
+		"en": "Free Business Courses" },{
+		"pt": "Cursos grátis de Negócios"
+	}],
+	"Finanzas": [{
+		"en": "Finance" },{
+		"pt": "Finanças"
+	}],
+	"Emprendimiento": [{
+		"en": "Entrepreneurship" },{
+		"pt": "Empreendimento"
+	}],
+	"Comunicación": [{
+		"en": "Communication" },{
+		"pt": "Comunicação"
+	}],
+	"Gestión empresarial": [{
+		"en": "Business management" },{
+		"pt": "Gerenciamento empresarial"
+	}],
+	"Ventas": [{
+		"en": "Sales" },{
+		"pt": "Vendas"
+	}],
+	"Estrategia": [{
+		"en": "Strategy" },{
+		"pt": "Estratégia"
+	}],
+	"Operaciones": [{
+		"en": "Operations" },{
+		"pt": "Operações"
+	}],
+	"Gestión de proyectos": [{
+		"en": "Project management" },{
+		"pt": "Gerenciamento de projetos"
+	}],
+	"Derecho empresarial": [{
+		"en": "Business law" },{
+		"pt": "Direito empresarial"
+	}],
+	"Datos y análisis": [{
+		"en": "Data and analysis" },{
+		"pt": "Dados e análises"
+	}],
+	"Negocios desde casa": [{
+		"en": "Business from home" },{
+		"pt": "Negócios desde casa"
+	}],
+	"Recursos humanos": [{
+		"en": "Human Resources" },{
+		"pt": "Recursos humanos"
+	}],
+	"Industria": [{
+		"en": "Industry" },{
+		"pt": "Indústria"
+	}],
+	"Medios de comunicación": [{
+		"en": "Media" },{
+		"pt": "Meios de comunicação"
+	}],
+	"Bienes inmuebles": [{
+		"en": "Property" },{
+		"pt": "Bens inmuebles"
+	}],
+	"Cursos gratis de IT y Software": [{
+		"en": "Free IT and Software courses" },{
+		"pt": "Cursos grátis de IT e Software"
+	}],
+	"Certificaciones de IT": [{
+		"en": "IT Certifications" },{
+		"pt": "Certificações de IT"
+	}],
+	"Redes y seguridad": [{
+		"en": "Networks and security" },{
+		"pt": "Redes e segurança"
+	}],
+	"Hardware": [{
+		"en": "Hardware" },{
+		"pt": "Hardware"
+	}],
+	"Sistemas operativos": [{
+		"en": "Operating systems" },{
+		"pt": "Sistemas operacionais"
+	}],
+	"Cursos gratis de Productividad": [{
+		"en": "Free Productivity Courses" },{
+		"pt": "Cursos grátis de Produtividade"
+	}],
+	"Microsoft": [{
+		"en": "Microsoft" },{
+		"pt": "Microsoft"
+	}],
+	"Apple": [{
+		"en": "Apple" },{
+		"pt": "Apple"
+	}],
+	"Google": [{
+		"en": "Google" },{
+		"pt": "Google"
+	}],
+	"SAP": [{
+		"en": "SAP" },{
+		"pt": "SAP"
+	}],
+	"Intuit": [{
+		"en": "Intuit" },{
+		"pt": "Intuit"
+	}],
+	"Salesforce": [{
+		"en": "Salesforce" },{
+		"pt": "Salesforce"
+	}],
+	"Oracle": [{
+		"en": "Oracle" },{
+		"pt": "Oracle"
+	}],
+	"Cursos gratis de Desarrollo personal": [{
+		"en": "Free Personal Development courses" },{
+		"pt": "Cursos grátis de Desenvolvimento pessoal"
+	}],
+	"Transformación personal": [{
+		"en": "Personal transformation" },{
+		"pt": "Transformação pessoal"
+	}],
+	"Productividad": [{
+		"en": "Productivity" },{
+		"pt": "Produtividade"
+	}],
+	"Liderazgo": [{
+		"en": "Leadership" },{
+		"pt": "Liderança"
+	}],
+	"Finanzas personales": [{
+		"en": "Personal finances" },{
+		"pt": "Finanças pessoais"
+	}],
+	"Desarrollo profesional": [{
+		"en": "Professional development" },{
+		"pt": "Desenvolvimento profissional"
+	}],
+	"Paternidad y relaciones": [{
+		"en": "Paternity and relationships" },{
+		"pt": "Paternidade e relações"
+	}],
+	"Felicidad": [{
+		"en": "Happiness" },{
+		"pt": "Felicidade"
+	}],
+	"Religión y espiritualidad": [{
+		"en": "Religion and spirituality" },{
+		"pt": "Religião e espiritualidad"
+	}],
+	"Desarrollo de marca personal": [{
+		"en": "Personal brand development" },{
+		"pt": "Desenvolvimento de marca pessoal"
+	}],
+	"Creatividad": [{
+		"en": "Creativity" },{
+		"pt": "Criatividade"
+	}],
+	"influencia": [{
+		"en": "influence" },{
+		"pt": "influência"
+	}],
+	"Autoestima": [{
+		"en": "Self esteem" },{
+		"pt": "Autoestima"
+	}],
+	"Gestión del estrés": [{
+		"en": "Stress management" },{
+		"pt": "Gerenciamento do estrés"
+	}],
+	"Memoria y técnicas de estudio": [{
+		"en": "Memory and study techniques" },{
+		"pt": "Memória e técnicas de estudo"
+	}],
+	"Motivación": [{
+		"en": "Motivation" },{
+		"pt": "Motivação"
+	}],
+	"Cursos gratis de Diseño": [{
+		"en": "Free Design Courses" },{
+		"pt": "Cursos grátis de Desenho"
+	}],
+	"Diseño web": [{
+		"en": "Web design" },{
+		"pt": "Desenho site"
+	}],
+	"Diseño gáfico": [{
+		"en": "Graphic design" },{
+		"pt": "Desenho gáfico"
+	}],
+	"Herramientas de diseño": [{
+		"en": "Design tools"},{
+		"pt": "Ferramentas de desenho"
+	}],
+	"Experiencia de usuario": [{
+		"en": "User experience" },{
+		"pt": "Experiência de usuário"
+	}],
+	"Diseño de juegos": [{
+		"en": "Game design" },{
+		"pt": "Desenho de jogos"
+	}],
+	"Desing Thinking": [{
+		"en": "Desing Thinking" },{
+		"pt": "Desing Thinking"
+	}],
+	"3D y animación": [{
+		"en": "3D and animation" },{
+		"pt": "3D e animação"
+	}],
+	"Moda": [{
+		"en": "fashion" },{
+		"pt": "Moda"
+	}],
+	"Diseño arquitectónico": [{
+		"en": "Architectural design" },{
+		"pt": "Desenho arquitectónico"
+	}],
+	"Diseño de interiores": [{
+		"en": "Interior design" },{
+		"pt": "Desenho de interiores"
+	}],
+	"Cursos gratis de Marketing": [{
+		"en": "Free Marketing courses" },{
+		"pt": "Cursos grátis de Marketing"
+	}],
+	"Marketing digital": [{
+		"en": "Digital marketing" },{
+		"pt": "Marketing digital"
+	}],
+	"Optimización de motores de búsqueda": [{
+		"en": "Search engine optimization" },{
+		"pt": "Otimização de motores de busca"
+	}],
+	"Marketing de redes sociales": [{
+		"en": "Social media marketing" },{
+		"pt": "Marketing de redes sociais"
+	}],
+	"Creación de marca": [{
+		"en": "Brand creation" },{
+		"pt": "Criação de marca"
+	}],
+	"Fundamentos de marketing": [{
+		"en": "Fundamentals of Marketing" },{
+		"pt": "Fundamentos de marketing"
+	}],
+	"Análisis y automatización": [{
+		"en": "Analysis and automation" },{
+		"pt": "Análise e automação"
+	}],
+	"Relaciones públicas": [{
+		"en": "Public relations" },{
+		"pt": "Relações públicas"
+	}],
+	"Publicidad": [{
+		"en": "Advertising" },{
+		"pt": "Publicidade"
+	}],
+	"Marketing con vídeo y móviles": [{
+		"en": "Marketing with video and mobile" },{
+		"pt": "Marketing com vídeo e móveis"
+	}],
+	"Merketing de contenidos": [{
+		"en": "Merketing of contents" },{
+		"pt": "Merketing de conteúdos"
+	}],
+	"Marketing tradicional": [{
+		"en": "Traditional marketing" },{
+		"pt": "Marketing tradicional"
+	}],
+	"Estrategia de posicionamiento": [{
+		"en": "Positioning strategy" },{
+		"pt": "Estratégia de posicionamento"
+	}],
+	"Marketing de afiliados": [{
+		"en": "Affiliate marketing" },{
+		"pt": "Marketing de filiados"
+	}],
+	"Marketing de producto": [{
+		"en": "Product marketing" },{
+		"pt": "Marketing de produto"
+	}],
+	"Cursos gratis de Música": [{
+		"en": "Free Music Courses" },{
+		"pt": "Cursos grátis de Música"
+	}],
+	"Instrumentos": [{
+		"en": "Instruments" },{
+		"pt": "Instrumentos"
+	}],
+	"Producción": [{
+		"en": "Production" },{
+		"pt": "Produção"
+	}],
+	"Fundamentos sobre música": [{
+		"en": "Fundamentals about music" },{
+		"pt": "Fundamentos sobre música"
+	}],
+	"Vocal": [{
+		"en": "Vocal" },{
+		"pt": "Vogal"
+	}],
+	"Técnicas musicales": [{
+		"en": "Musical techniques" },{
+		"pt": "Técnicas musicais"
+	}],
+	"Software de música": [{
+		"en": "Music software" },{
+		"pt": "Software de música"
+	}],
+	"Cursos gratis de Salud y fitness": [{
+		"en": "Free Health and fitness courses" },{
+		"pt": "Cursos grátis de Saúde e fitness"
+	}],
+	"Fitness": [{
+		"en": "Fitness" },{
+		"pt": "Fitness"
+	}],
+	"Salud general": [{
+		"en": "General health" },{
+		"pt": "Saúde geral"
+	}],
+	"Deportes": [{
+		"en": "sports" },{
+		"pt": "Desportos"
+	}],
+	"Nutrición": [{
+		"en": "Nutrition" },{
+		"pt": "Nutrição"
+	}],
+	"Yoga": [{
+		"en": "Yoga" },{
+		"pt":  "Yoga"
+	}],
+	"Salud mental": [{
+		"en": "Mental health" },{
+		"pt": "Saúde mental"
+	}],
+	"Dietética": [{
+		"en": "Dietetics" },{
+		"pt": "Dietética"
+	}],
+	"Defensa personal": [{
+		"en": "Self Defense" },{
+		"pt": "Defesa pessoal"
+	}],
+	"Seguridad y primeros auxilios": [{
+		"en": "Safety and first aid" },{
+		"pt": "Segurança e primeiros auxílios"
+	}],
+	"Baile": [{
+		"en": "Dance" },{
+		"pt": "Dance"
+	}],
+	"Meditación": [{
+		"en": "Meditation" },{
+		"pt": "Meditación"
+	}],
+	"Cursos gratis de Fotografía": [{
+		"en": "Free Photography Courses" },{
+		"pt": "Cursos grátis de Fotografia"
+	}],
+	"Fotografía digital": [{
+		"en": "Digital photography" },{
+		"pt": "Fotografia digital"
+	}],
+	"Fundamentos de fotografía": [{
+		"en": "Fundamentals of photography" },{
+		"pt": "Fundamentos de fotografia"
+	}],
+	"Retratos": [{
+		"en": "Pictures" },{
+		"pt": "Retratos"
+	}],
+	"Paisajes": [{
+		"en": "Landscapes" },{
+		"pt": "Paisagens"
+	}],
+	"Blanco y negro": [{
+		"en": "Black and white" },{
+		"pt": "Blanco e negro"
+	}],
+	"Herramientas de fotografía": [{
+		"en": "Photography tools" },{
+		"pt": "Ferramentas de fotografia"
+	}],
+	"Fotografía móvil": [{
+		"en": "Mobile photography" },{
+		"pt": "Fotografia móvel"
+	}],
+	"Fotografía de viajes": [{
+		"en": "Travel photography" },{
+		"pt": "Fotografia de viagens"
+	}],
+	"Fotografía comercial": [{
+		"en": "Commercial photography" },{
+		"pt": "Fotografia comercial"
+	}],
+	"Fotografía para bodas": [{
+		"en": "Photography for weddings" },{
+		"pt": "Fotografia para casamentos"
+	}],
+	"Fotografía de naturaleza": [{
+		"en": "Nature photography" },{
+		"pt": "Fotografia de natureza"
+	}],
+	"Diseño de vídeo": [{
+		"en": "Video design" },{
+		"pt": "Desenho de vídeo"
+	}],
+	"Cursos gratis de Estilo de vida": [{
+		"en": "Free Lifestyle Courses" },{
+		"pt": "Cursos grátis de Estilo de vida"
+	}],
+	"Artes y manualidades": [{
+		"en": "Arts and crafts" },{
+		"pt": "Artes e manualidades"
+	}],
+	"Comida y bebida": [{
+		"en": "Food and drink" },{
+		"pt": "Comida e bebida"
+	}],
+	"Belleza y maquillaje": [{
+		"en": "Beauty and makeup" },{
+		"pt": "Beleza e maquillaje"
+	}],
+	"Viajes": [{
+		"en": "Travels" },{
+		"pt": "Viagens"
+	}],
+	"Juegos": [{
+		"en": "Games" },{
+		"pt": "Jogos"
+	}],
+	"Bricolaje": [{
+		"en": "DIY" },{
+		"pt": "Bricolaje"
+	}],
+	"Cuidado y entrenamiento de mascotas": [{
+		"en": "Pet care and training" },{
+		"pt": "Cuidado e treinamento de mascotas"
+	}],
+	"Cursos gratis de Idiomas": [{
+		"en": "Free Languages ​​Courses" },{
+		"pt": "Cursos grátis de Idiomas"
+	}],
+	"Inglés": [{
+		"en": "English" },{ 
+		"pt": "Inglês"
+	}],
+	"Español": [{
+		"en": "Spanish" },{
+		"pt": "Espanhol"
+	}],
+	"Alemán": [{
+		"en": "German" },{
+		"pt": "Alemão"
+	}],
+	"Francés": [{
+		"en": "French" },{
+		"pt": "Francês"
+	}],
+	"Japonés": [{
+		"en": "Japanese" },{
+		"pt": "Japonês"
+	}],
+	"Portugués": [{
+		"en": "Portuguese" },{ 
+		"pt": "Português"
+	}],
+	"Chino": [{
+		"en": "Chinese" },{
+		"pt": "Chinês"
+	}],
+	"Ruso": [{
+		"en": "Russian" },{
+		"pt": "Russo"
+	}],
+	"Latín": [{
+		"en": "Latin" },{
+		"pt": "Latim"
+	}],
+	"Árabe": [{
+		"en": "Arab" },{
+		"pt": "Árabe"
+	}],
+	"Hebreo": [{
+		"en": "Hebrew"},{ 
+		"pt": "Hebreu"
+	}],
+	"Italiano": [{
+		"en": "Italian" },{
+		"pt": "Italiano"
+	}],
+	"Cursos gratis de formación de profesorado": [{
+		"en": "Free teacher training courses" },{
+		"pt": "Cursos grátis de formação de profesorado"
+	}],
+	"Diseño educativo": [{
+		"en": "Educational design" },{
+		"pt": "Desenho educativo"
+	}],
+	"Desarrollo educativo": [{
+		"en": "Educative development" },{
+		"pt": "Desenvolvimento educativo"
+	}],
+	"Herramientas de enseñanza": [{
+		"en": "Teaching tools" },{
+		"pt": "Ferramentas de ensino"
+	}],
+	"Cursos gratis de Estudios Académicos": [{
+		"en": "Free Academic Studies Courses" },{
+		"pt": "Cursos grátis de Estudos Acadêmicos"
+	}],
+	"Ciencias Sociales": [{
+		"en": "social Sciences" },{
+		"pt": "Ciências Sociais"
+	}],
+	"Matemáticas y Ciencias": [{
+		"en": "Math and science" },{
+		"pt": "Matemáticas e Ciências"
+	}],
+	"Humanidades": [{
+		"en": "Humanities" },{
+		"pt": "Humanidades"
+	}],
+	"Cursos gratis para preparación de exámenes": [{
+		"en": "Free courses for exam preparation" },{
+		"pt": "Cursos grátis para preparação de exames"
+	}],
+	"Examen de acceso a programas de posgrado": [{
+		"en": "Examination of access to graduate programs" },{
+		"pt": "Exame de acesso a programas de posgrado"
+	}],
+	"Examen de acceso a la universidad": [{
+		"en": "University access test" },{
+		"pt": "Exame de acesso à universidade"
+	}],
+	"Técnicas de preparación para exámenes": [{
+		"en": "Exam preparation techniques" },{
+		"pt": "Técnicas de preparação para exames"
+	}],
+	"Aprenda a codificar o crear sitios web desde cero con estos cursos en línea. Los temas incluyen desarrollo web, aplicaciones móviles IOS, desarrollo de Android a juegos y comercio electrónico.": [{
+		"en": "Learn how to code or create websites from scratch with these online courses. Topics include web development, IOS mobile applications, Android development to games and e-commerce." },{
+		"pt": "Aprenda a codificar ou criar lugares site desde zero com estes cursos em linha. Os temas incluem desenvolvo site, aplicativos móveis IOS, desenvolvimento de Android a jogos e comércio eletrônico."
+	}],
+	"La mejor colección de cursos de negocios y emprendimiento en línea. Desde iniciar una empresa hasta marketing, publicidad, finanzas y más. Comienza a aprender hoy.": [{
+		"en": "The best collection of online business and entrepreneurship courses. From starting a business to marketing, advertising, finance and more. Start learning today." },{
+		"pt": "A melhor coleção de cursos de negócios e empreendimento em linha. Desde iniciar uma empresa até marketing, publicidade, finanças e mais. Começa a aprender hoje."
+	}],
+	"Los últimos cursos en línea de informática y software. Prepárese para los exámenes de certificación o estudie las últimas arquitecturas de sistemas operativos.": [{
+		"en": "The latest online computer and software courses. Prepare for certification exams or study the latest operating system architectures." },{
+		"pt": "Os últimos cursos em linha de informática e software. Prepare para os exames de certificação ou estude as últimas arquitecturas de sistemas operacionais."
+	}],
+	"Mejore sus resultados y avance con estos cursos de productividad de oficina en: Microsoft Excel, Apple, Google, SAP, Intuit, Oracle, Salesforce y otros.": [{
+		"en": "Improve your results and advance with these office productivity courses in: Microsoft Excel, Apple, Google, SAP, Intuit, Oracle, Salesforce and others." },{
+		"pt": "Melhore seus resultados e avanço com estes cursos de produtividade de escritório em: Microsoft Excel, Apple, Google, SAP, Intuit, Oracle, Salesforce e outros."
+	}],
+	"Con los cursos de desarrollo personal en línea, aprenderá a ser más seguro, más feliz, productivo y exitoso. Regístrese hoy y comience a aprender.": [{
+		"en": "With online personal development courses, you will learn to be safer, happier, productive and successful. Register today and start learning." },{
+		"pt": "Com os cursos de desenvolvimento pessoal em linha, aprenderá a ser mais seguro, mais feliz, produtivo e exitoso. Registre-se hoje e comece a aprender."
+	}],
+	"Los mejores cursos de diseño en línea: aprenda a diseñar sitios web, logotipos, carteles y más. Encuentre un curso y comience a aprender hoy.": [{
+		"en": "The best online design courses: learn to design websites, logos, posters and more. Find a course and start learning today." },{
+		"pt": "Os melhores cursos de desenho em linha: aprenda a desenhar lugares site, logotipos, cartazes e mais. Encontre um curso e comece a aprender hoje."
+	}],
+	"Aprenda marketing para hacer crecer su negocio. Desarrolle su marketing digital, redes sociales, hacking de crecimiento, contenido y habilidades de marca con estos excelentes cursos.": [{
+		"en": "Learn marketing to grow your business. Develop your digital marketing, social networks, growth hacking, content and brand skills with these excellent courses." },{
+		"pt": "Aprenda marketing para fazer crescer seu negócio. Desenvolva seu marketing digital, redes sociais, hacking de crescimento, conteúdo e habilidades de marca com estes excelentes cursos."
+	}],
+	"Aprende música en línea. Los mejores cursos en línea de guitarra, piano, ukelele, autoharp y DJ. Descubre un curso y comienza a aprender.": [{
+		"en": "Learn music online. The best online guitar, piano, ukulele, autoharp and DJ courses. Discover a course and start learning." },{
+		"pt": "Aprende música em linha. Os melhores cursos em linha de guitarra, piano, ukelele, autoharp e DJ. Descobre um curso e começa a aprender."
+	}],
+	"Obtenga más salud y ajuste con los cursos de fitness en línea. Aprenda yoga, pilates, meditación, tai chi y más. Encuentra un curso y comienza a transformar tu cuerpo.": [{
+		"en": "Get more health and fit with online fitness courses. Learn yoga, pilates, meditation, tai chi and more. Find a course and begin to transform your body." },{
+		"pt": "Obtenha mais saúde e ajuste com os cursos de fitness em linha. Aprenda yoga, pilates, meditación, tai chi e mais. Encontra um curso e começa a transformar seu corpo."
+	}],
+	"Lleva tus habilidades de fotografía al siguiente nivel. Regístrese en nuestros cursos de fotografía en línea gratuitos o de bajo costo y comience a tomar impresionantes fotos hoy.": [{
+		"en": "Take your photography skills to the next level. Sign up for our free or low-cost online photography courses and start taking stunning photos today." },{
+		"pt": "Leva suas habilidades de fotografia ao seguinte nível. Registre em nossos cursos de fotografia em linha gratuitos ou de baixo custo e comece a tomar impressionantes fotos hoje."
+	}],
+	"Aprende cómo cocinar, entrenar a tu cachorro, conseguir un trabajo de ensueño y mucho más.": [{
+		"en": "Learn how to cook, train your puppy, get a dream job and much more." },{
+		"pt": "Aprende como cozinhar, treinar a seu cachorro, conseguir um trabalho de sonho e bem mais."
+	}],
+	"Aprende cómo cocinar, entrenar a tu cachorro, conseguir un trabajo de ensueño y mucho más.": [{
+		"en": "Learn how to cook, train your puppy, get a dream job and much more." },{
+		"pt": "Aprende como cozinhar, treinar a seu cachorro, conseguir um trabalho de sonho e bem mais."
+	}],
+	"Con los cursos de idiomas en línea, puede dominar las habilidades que son importantes para usted de forma gratuita o a bajo costo desde su dispositivo móvil, tableta o computadora portátil.": [{
+		"en": "With online language courses, you can master the skills that are important to you for free or at low cost from your mobile device, tablet or laptop." },{
+		"pt": "Com os cursos de idiomas em linha, pode dominar as habilidades que são importantes para você de forma gratuita ou a baixo custo desde seu dispositivo móvel, tableta ou computador portátil."
+	}],
+	"Con los cursos de educación en línea, puede dominar las habilidades que son importantes para usted de forma gratuita o a bajo costo desde su dispositivo móvil, tableta o computadora portátil.": [{
+		"en": "With online education courses, you can master the skills that are important to you for free or at low cost from your mobile device, tablet or laptop." },{
+		"pt": "Com os cursos de educação em linha, pode dominar as habilidades que são importantes para você de forma gratuita ou a baixo custo desde seu dispositivo móvel, tableta ou computador portátil."
+	}],
+	"Tome cursos en línea en matemáticas, ciencia, geografía e historia de expertos.": [{
+		"en": "Take online courses in math, science, geography and expert history." },{
+		"pt": "Tome cursos em linha em matemáticas, ciência, geografia e história de experientes."
+	}],
+	"Con los cursos de preparación para exámenes en línea, aprende cómo superar exitósamente esa prueba.": [{
+		"en": "With on-line exam preparation courses, learn how to successfully pass that test." },{
+		"pt":"Com os cursos de preparação para exames em linha, aprende como superar exitósamente essa prova."
+	}]
+
+}
